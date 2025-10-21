@@ -1,5 +1,5 @@
 # Indu Sri Marikanti Portfolio
-
+![Portfolio Screenshot](portfolio-ss.jpg)
 Welcome! I'm Indu Sri Marikanti, an aspiring software engineer passionate about AI/ML and software solutions.
 
 ## 🚀 Portfolio Website
